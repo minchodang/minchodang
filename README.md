@@ -2,7 +2,7 @@
 - 👀 I’m interested in developement & workout
 - 🌱 I’m currently learning fullstack developement
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... contact minsu910725@gmail.com
 
 <!---
 minchodang/minchodang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
