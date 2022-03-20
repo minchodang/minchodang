@@ -36,8 +36,8 @@ I'm a persistent person, who study hard day and night for be a good developer.�
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minchodang&layout=compact&theme=tokyonight)
 
+#
 
-
-- 📫 How to reach me ... contact minsu910725@gmail.com
+📫 How to reach me ... contact minsu910725@gmail.com
 
 </div>
