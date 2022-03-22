@@ -34,9 +34,8 @@ I'm a persistent person, who study hard day and night for be a good developer.�
 #
 <!-- [![minsu kang's github stats](https://github-readme-stats.vercel.app/api?username=minchodang&show_icons=true&theme=aura) -->
 	
-[![minsu kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=minchodang&show_icons=true&theme=aura,contribs&count_private=true)](https://github.com/minchodang/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minchodang&count_private=true&show_icons=true&theme=aura)
 
-출처: https://msyu1207.tistory.com/entry/git-profile-꾸미기-feat-badge-github-readme-stats [Lotts Blog]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minchodang&layout=compact&theme=tokyonight)
 
