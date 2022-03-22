@@ -31,8 +31,12 @@ I'm a persistent person, who study hard day and night for be a good developer.�
 
 <img src="https://img.shields.io/badge/next.js-white?style=plastic&logo=next.js&logoColor=black"> <img src="https://img.shields.io/badge/redux-pink?style=plastic&logo=redux&logoColor=black"> <img src="https://img.shields.io/badge/typescript-blue?style=plastic&logo=typescript&logoColor=white">
 
----------------------
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minchodang&show_icons=true&theme=aura)
+#
+<!-- [![minsu kang's github stats](https://github-readme-stats.vercel.app/api?username=minchodang&show_icons=true&theme=aura) -->
+	
+[![minsu kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=minchodang&show_icons=true&theme=aura,contribs&count_private=true)](https://github.com/minchodang/github-readme-stats)
+
+출처: https://msyu1207.tistory.com/entry/git-profile-꾸미기-feat-badge-github-readme-stats [Lotts Blog]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minchodang&layout=compact&theme=tokyonight)
 
