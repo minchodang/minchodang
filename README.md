@@ -29,7 +29,7 @@ I'm a persistent person, who study hard day and night for be a good developer.ğŸ
 
 ğŸ”¥ Studying Stack
 
-<img src="https://img.shields.io/badge/redux-pink?style=plastic&logo=webpack&logoColor=sky"><img src="https://img.shields.io/badge/next.js-white?style=plastic&logo=next.js&logoColor=black"> <img src="https://img.shields.io/badge/redux-pink?style=plastic&logo=redux&logoColor=black"> <img src="https://img.shields.io/badge/typescript-blue?style=plastic&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/Jest-orange?style=plastic&logo=Jest&logoColor=white">
+<img src="https://img.shields.io/badge/webpack-blue?style=plastic&logo=webpack&logoColor=white"><img src="https://img.shields.io/badge/next.js-white?style=plastic&logo=next.js&logoColor=black"> <img src="https://img.shields.io/badge/redux-pink?style=plastic&logo=redux&logoColor=black"> <img src="https://img.shields.io/badge/typescript-blue?style=plastic&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/Jest-orange?style=plastic&logo=Jest&logoColor=white">
 #
 <!-- [![minsu kang's github stats](https://github-readme-stats.vercel.app/api?username=minchodang&show_icons=true&theme=aura) -->
 	
