@@ -21,7 +21,7 @@
 
 ## 📖 기록하며 성장합니다.
 
-- [Chart 라이블러리를 통해 배운 여러 가지 insights들(링크)](https://velog.io/@minsu8834/Insights-At-Chart)
+- [Chart 라이브러리를 통해 배운 여러 가지 insights들(링크)](https://velog.io/@minsu8834/Insights-At-Chart)
 - [initialData에 대한 잘못된 환상과 오해(링크)](https://velog.io/@minsu8834/initialData%EC%99%80-prefetchQuery%EB%A5%BC-%EB%8C%80%ED%95%98%EB%8A%94-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%9E%90%EC%84%B8feat.-tanstack-query)
 - [네이버 마커 커스텀 및 지도 최신화에 따른 구현기(링크)](https://chisel-tire-a0d.notion.site/What-s-about-Map-feat-4a8738816ca7496484a81cf921ca2e96?pvs=4).
 - [리액트 쿼리 및 캐시에 대한 이해를 바탕으로 캐시 활용기(링크).](https://chisel-tire-a0d.notion.site/React-Query-11f5b05daf284196b0fec3374c3f0580?pvs=4)
