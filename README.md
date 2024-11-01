@@ -21,12 +21,12 @@
 
 ## 📖 기록하며 성장합니다.
 
+- [우리가 인증을 대하는 자세. (Feat Nextjs & serverComponent)](https://velog.io/@minsu8834/%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%9D%B8%EC%A6%9D%EC%9D%84-%EB%8C%80%ED%95%98%EB%8A%94-%EC%9E%90%EC%84%B8.-Feat-Nextjs-serverComponent)
 - [Observer pattern with React 전역 Toast, Modal(2부 모달)](https://velog.io/@minsu8834/Observer-pattern-with-React-%EC%A0%84%EC%97%AD-Toast-Modal2%EB%B6%80-%EB%AA%A8%EB%8B%AC)
 - [Observer pattern with React 전역 Toast, Modal(1부 토스트)](https://velog.io/@minsu8834/Observer-pattern-with-Toast-Modal)
 - [Chart 라이브러리를 통해 배운 여러 가지 insights들(링크)](https://velog.io/@minsu8834/Insights-At-Chart)
 - [initialData에 대한 잘못된 환상과 오해(링크)](https://velog.io/@minsu8834/initialData%EC%99%80-prefetchQuery%EB%A5%BC-%EB%8C%80%ED%95%98%EB%8A%94-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%9E%90%EC%84%B8feat.-tanstack-query)
 - [네이버 마커 커스텀 및 지도 최신화에 따른 구현기(링크)](https://chisel-tire-a0d.notion.site/What-s-about-Map-feat-4a8738816ca7496484a81cf921ca2e96?pvs=4).
-- [intesectio-observer 및 onscroll 등을 활용한 무한스크롤 코드 최적화 및 성능 최적화 작업기.(링크)](https://velog.io/@minsu8834/%EB%B2%84%EA%B7%B8-%EC%B2%9C%EA%B5%AD%EC%97%90-%EC%98%A4%EC%8B%A0-%EA%B2%83%EC%9D%84-%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4...-%EB%8B%A4%EC%8B%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-3%ED%83%84)
 - [2022 인프런 컨퍼런스 인프콘 참석 후기](https://chisel-tire-a0d.notion.site/2022-Infcon-My-first-Developer-Conference-d4632a2f3c9d4e3da963d13aa5a504ac)
 
 
