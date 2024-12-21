@@ -42,11 +42,11 @@
 #
 
 # 📮 채널. 
-<a href="https://chisel-tire-a0d.notion.site/ecd8454461754d5780501a92ba1e0272">
-<img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black">
+<a href="https://www.linkedin.com/in/%EB%AF%BC%EC%88%98-%EA%B0%95-839030226/">
+<img src="https://img.shields.io/badge/linkedin-ffffff?style=flat&logo=linkedin&logoColor=blue">
 </a>
 <a href="https://velog.io/@minsu8834">
-<img src="https://img.shields.io/badge/velog-00000?style=for-the-badge&logo=velog&logoColor=black">
+<img src="https://img.shields.io/badge/velog-ffffff?style=for-the-badge&logo=velog&logoColor=black">
 </a>
 
 </div>
